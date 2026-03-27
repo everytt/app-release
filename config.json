@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "version_code": 2,
+  "version": "1.0.0",
+  "version_code": 1,
   "force_update": false,
   "min_version_code": 1,
-  "download_url": "https://drive.google.com/uc?export=download&id=1OfRPQgR9qtgnYRctAPv9YfHmEVQB2bTX",
+  "download_url": "https://drive.google.com/uc?export=download&id=1Mjw5K-ot2yDDrdrH4TTbsq1AMRDK84Mn",
   "changelog": "첫 번째 릴리즈",
   "features": {
     "new_scanner": true,
